@@ -11,4 +11,4 @@ A minimal calculator web app built with plain HTML, CSS, and JavaScript — no f
 Just open `index.html` in a browser.
 
 ## Live demo
-Deployed with GitHub Pages: (link added after deployment)
+Deployed with GitHub Pages: https://alovelovea.github.io/simple-calculator/
